@@ -41,6 +41,3 @@ Subject: Hi there
 This message is sent from Python."""
 
 # Send email here
-ni hao 
-sendfile*sfg*
-sched_get_priority_madsfiogsdogjosgdr
