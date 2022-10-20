@@ -1,3 +1,4 @@
+from os import sched_get_priority_max, sendfile
 import smtplib,ssl
 port = 465
 password = input("Entre ton mot de passe et entrer")
@@ -40,3 +41,6 @@ Subject: Hi there
 This message is sent from Python."""
 
 # Send email here
+ni hao 
+sendfile*sfg*
+sched_get_priority_max
